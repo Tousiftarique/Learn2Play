@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "66c4f39671f299b1aeab4020"
+  },
+  "question": "gfhnhjfjyfkuj",
+  "description": "fhgjhyfgyj",
+  "tags": [
+    "html",
+    "css"
+  ],
+  "role": "student",
+  "studentId": {
+    "$oid": "660eee58595a11d3304884ae"
+  },
+  "vote": 0,
+  "answers": [
+    {
+      "answer": "sdhsdhsd",
+      "vote": 0,
+      "studentId": {
+        "$oid": "6612a6120560520dd4ad30d1"
+      },
+      "role": "student",
+      "_id": {
+        "$oid": "66c4f47a559aa1f82f0d5581"
+      },
+      "createdAt": {
+        "$date": "2024-08-20T19:54:34.137Z"
+      },
+      "updatedAt": {
+        "$date": "2024-08-20T19:54:34.137Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-20T19:50:46.398Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T19:54:34.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c4f4ba559aa1f82f0d5595"
+  },
+  "question": "how to learn",
+  "description": "How to learn nodejs",
+  "tags": [
+    "nodejs",
+    "js"
+  ],
+  "role": "student",
+  "studentId": {
+    "$oid": "6612a6120560520dd4ad30d1"
+  },
+  "vote": 0,
+  "answers": [
+    {
+      "answer": "learn with youtube",
+      "vote": 0,
+      "studentId": {
+        "$oid": "660eee58595a11d3304884ae"
+      },
+      "role": "student",
+      "_id": {
+        "$oid": "66c4f4f871f299b1aeab403c"
+      },
+      "createdAt": {
+        "$date": "2024-08-20T19:56:40.087Z"
+      },
+      "updatedAt": {
+        "$date": "2024-08-20T19:56:40.087Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-20T19:55:38.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T19:56:40.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cc68809e7b3a932139fff4"
+  },
+  "question": "hello",
+  "description": "xyz",
+  "tags": [
+    "html",
+    "css"
+  ],
+  "role": "student",
+  "studentId": {
+    "$oid": "660eee58595a11d3304884ae"
+  },
+  "vote": 0,
+  "answers": [
+    {
+      "answer": "ahjsjahs",
+      "vote": 0,
+      "studentId": {
+        "$oid": "660eee58595a11d3304884ae"
+      },
+      "role": "student",
+      "_id": {
+        "$oid": "66df4bc2b3c47c3793f5e788"
+      },
+      "createdAt": {
+        "$date": "2024-09-09T19:25:54.298Z"
+      },
+      "updatedAt": {
+        "$date": "2024-09-09T19:25:54.298Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-26T11:35:28.737Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-09T19:25:54.284Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "660ef7a1ee9ea63f4571bde0"
+  },
+  "username": "Hibban Admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$ATINWIq0V1uO97s1PObJB.e0t.PUsTjzwC/.P.NFYhWJcfv/kaTIi",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-04-04T18:55:29.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-04T18:55:29.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6679343ee3bb88a0424bad27"
+  },
+  "username": "aman hussain",
+  "email": "aman@gmail.com",
+  "password": "$2b$10$6JRJbdeN0ldjYXZY/F66fOd10C3hWiYoOBldkhXxUpiUM2JjfZPpK",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-06-24T08:54:22.192Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-24T08:54:22.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667aad5f773e98891f18fe16"
+  },
+  "username": "hibbanur ",
+  "email": "hibban@gmail",
+  "password": "$2b$10$8iaBgeowvMJscZTMB7iuluot4iVqAdkWXzP.aIw9.fBwrYBQedJ2O",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-06-25T11:43:27.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-25T11:43:27.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d8c69b7f37a72bffc1bb9"
+  },
+  "username": "falak",
+  "email": "falak@gmail.com",
+  "password": "$2b$10$reufb/yQKHYMjmT5O1bgPekSPmgPp8O7sX.lUCnpC6M7UuEeOLrUC",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2024-06-27T15:59:37.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-27T15:59:37.643Z"
+  },
+  "__v": 0
+}]

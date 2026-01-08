@@ -1,0 +1,212 @@
+[{
+  "_id": {
+    "$oid": "660ef18cee9ea63f4571bdd7"
+  },
+  "firstname": "Farhanur",
+  "lastname": "Rahman",
+  "username": "Farhanur Rahman",
+  "email": "farhan@gmail.com",
+  "password": "$2b$10$Om42qLufWe7hCyz8MFBTeuVqNapIUwprjsFAN1ykCdUcZmvIczGW2",
+  "phone": "9973152523",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-04T18:29:32.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-18T12:24:19.098Z"
+  },
+  "__v": 3,
+  "aboutInfo": "As a third-year B.Tech student majoring in Computer Science, I've found my passion in web development. From mastering HTML, CSS, and JavaScript to exploring frameworks like React.js and Node.js, I've embraced the dynamic nature of building digital experiences. Through internships and projects, I've honed my skills while learning the importance of teamwork and communication. As I enter my third year, I'm excited to continue pushing boundaries and exploring new technologies in the ever-evolving field of web development.",
+  "address": "Gacchibowli,Hyderabad,telangana, 500032",
+  "city": "Hyderabad",
+  "country": "India",
+  "expertise": "web developer",
+  "githubProfile": "https://github.com/Hibbanur-Rahman",
+  "personalWebsite": "http://hibbanur-rahman.me/fifth-portfolio/",
+  "pincode": "500032",
+  "profileImage": "",
+  "courses": [
+    {
+      "$oid": "66210e3335f26083da811c72"
+    },
+    {
+      "$oid": "6621105235f26083da811c76"
+    },
+    {
+      "$oid": "662110f335f26083da811c7a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66100fa2236555cee3daad67"
+  },
+  "firstname": "Abdul",
+  "lastname": "Rab",
+  "username": "Abdul Rab",
+  "email": "abdul@gmail.com",
+  "password": "$2b$10$krJmbzuxp96VUyjINFRUTupx1vTUy5xHzNlrmUpnwESuNPHF3S3OO",
+  "phone": "09973152523",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-05T14:50:10.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T14:50:10.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66111ab8530c69c334ec475e"
+  },
+  "firstname": "Md",
+  "lastname": "Sarfraz",
+  "username": "Md Sarfraz",
+  "email": "mdsarfraz62070@gmail.com",
+  "password": "$2b$10$WKL9VfzY9RoCu9lHjEhlxe0y2wpKFBSM2F//XXzzpPESCQ03JUhaC",
+  "phone": "6203800630",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-06T09:49:44.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T09:49:44.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661157468df960f68b0e3239"
+  },
+  "firstname": "Merajul",
+  "lastname": "Haque",
+  "username": "Merajul Haque",
+  "email": "haquedot@gmail.com",
+  "password": "$2b$10$vRfvjWy.fRdYuePNdMFh.uZHPFWNB8kKaLtXxQcVCOdmUqY/o4w1K",
+  "phone": "09973152523",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-06T14:08:06.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T14:08:06.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66142c03cacadc4740fdd651"
+  },
+  "firstname": "Numan Waris",
+  "lastname": "Khan",
+  "username": "Numan Waris Khan",
+  "email": "numanwariskhan72@gmail.com",
+  "password": "$2b$10$8lvWzjxJ4BFecmvqz/dEYOZaNEcFzTvFOblY57h4RR2gZ599j/ETa",
+  "phone": "82819281928",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-08T17:40:19.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-08T17:40:19.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661da1a964e7d111e22de86f"
+  },
+  "firstname": "Farhanur",
+  "lastname": "Rahman",
+  "username": "Farhanur Rahman",
+  "email": "farhanrahman0027@gmail.com",
+  "password": "$2b$10$mqWiiNL5OvDTENumTZYJue9GZ6fXJWXWMGSgf9cl.eA7OZiy/1R6W",
+  "phone": "7546974978",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-15T21:52:41.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T06:16:43.424Z"
+  },
+  "__v": 1,
+  "courses": [
+    {
+      "$oid": "67c0034bc434ebc6f09e3b36"
+    }
+  ],
+  "forumAnswer": [],
+  "forumQuestion": []
+},
+{
+  "_id": {
+    "$oid": "661e44612aacfd02a89c3e3d"
+  },
+  "firstname": "Danish",
+  "lastname": "Hussain",
+  "username": "Danish Hussain",
+  "email": "danishhussain.jmi@gmail.com",
+  "password": "$2b$10$H9wY1zn9tfSGvCso/3ZMGuk8QI8cWaxqumS3ijnj2jP7zb8dev9xa",
+  "phone": "6203800630",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-16T09:26:57.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-16T09:26:57.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fb5574bdf4cabb23d0846"
+  },
+  "firstname": "HIBBANUR",
+  "lastname": "RAHMAN",
+  "username": "HIBBANUR RAHMAN",
+  "email": "hibban@gmail.com",
+  "password": "$2b$10$LwekZgksqVEmOKNpKwtKu.S14lzLVUPUzUu5zKXmrtSu3VACnCQNq",
+  "phone": "09973152523",
+  "role": "teacher",
+  "createdAt": {
+    "$date": "2024-04-17T11:41:11.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-17T11:41:11.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723d96da4fd26d29bf45c4b"
+  },
+  "firstname": "Ashad",
+  "lastname": "Jamal",
+  "username": "Ashad Jamal",
+  "email": "ashadjamal@gmail.com",
+  "password": "$2b$10$YMsFgrdXmAZuQvNsBbeNle3zw/sQsRYJ2fGdHeZMHrisZ1EdaGSbC",
+  "phone": "07321857364",
+  "role": "teacher",
+  "courses": [
+    {
+      "$oid": "6723d9a0a4fd26d29bf45c52"
+    },
+    {
+      "$oid": "6723de789c8a190249cbd46f"
+    },
+    {
+      "$oid": "6723e5ab9a8a45188b179fae"
+    }
+  ],
+  "forumQuestion": [],
+  "forumAnswer": [],
+  "createdAt": {
+    "$date": "2024-10-31T19:24:29.145Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T20:16:43.725Z"
+  },
+  "__v": 3,
+  "profileImage": "C:\\fakepath\\image_ashad.jpg"
+}]

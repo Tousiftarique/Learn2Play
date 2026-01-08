@@ -1,0 +1,293 @@
+[{
+  "_id": {
+    "$oid": "660eee58595a11d3304884ae"
+  },
+  "firstname": "HIBBANUR",
+  "lastname": "RAHMAN",
+  "username": "HIBBANUR RAHMAN",
+  "email": "hibbanrahmanhyt@gmail.com",
+  "password": "$2b$10$KHKpVTit84zfH2uVewKPpOJkRPzOrLn7lcNyqkk1XPUxCJrYRmW8e",
+  "phone": "09973152523",
+  "role": "student",
+  "createdAt": {
+    "$date": "2024-04-04T18:15:52.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-13T18:23:10.898Z"
+  },
+  "__v": 2,
+  "city": "Hyderabad",
+  "address": "Gacchibowli,Hyderabad,telangana, 500032",
+  "country": "India",
+  "personalWebsite": "http://hibbanur-rahman.me/fifth-portfolio/",
+  "aboutInfo": "i am web developer",
+  "expertise": "android developer",
+  "githubProfile": "https://github.com/Hibbanur-Rahman",
+  "reviews": [
+    {
+      "$oid": "66718e329da163ecaae130dc"
+    },
+    {
+      "$oid": "66c4f33a559aa1f82f0d556a"
+    },
+    {
+      "$oid": "66df4be4a27b1513927099b0"
+    }
+  ],
+  "enrolledCourses": [
+    {
+      "$oid": "662110f335f26083da811c7a"
+    }
+  ],
+  "forumAnswer": [
+    {
+      "$oid": "66c4f4ba559aa1f82f0d5595"
+    },
+    {
+      "$oid": "66cc68809e7b3a932139fff4"
+    }
+  ],
+  "forumQuestion": [
+    {
+      "$oid": "66c4f39671f299b1aeab4020"
+    },
+    {
+      "$oid": "66cc68809e7b3a932139fff4"
+    }
+  ],
+  "wishlist": [
+    {
+      "$oid": "662110f335f26083da811c7a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66101f7bbbf2d30e53c9f23b"
+  },
+  "firstname": "Ashad",
+  "lastname": "Jamal",
+  "username": "Ashad Jamal",
+  "email": "ashadjamalhyt@gmail.com",
+  "password": "$2b$10$x9TW7L9h630u1vdAwFoLze7G9g9NyXnXfanlLwKv52rLrpbkRo7dq",
+  "phone": "09973152523",
+  "role": "student",
+  "createdAt": {
+    "$date": "2024-04-05T15:57:47.604Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-05T15:57:47.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66110d65eebed5dc44836b59"
+  },
+  "firstname": "Hibban",
+  "lastname": "Rahman",
+  "username": "Hibban Rahman",
+  "email": "hibbanrahmandbg@gmail.com",
+  "password": "$2b$10$ia1aKB9SCLOSsSkGCs.FGeofUjafABBFRP8NzJD1.RaJWAS6hacs.",
+  "phone": "9973152523",
+  "role": "student",
+  "createdAt": {
+    "$date": "2024-04-06T08:52:53.468Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T08:52:53.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661113844f4d7fa3697800c2"
+  },
+  "firstname": "Zahid",
+  "lastname": "Ibn-Rizwan",
+  "username": "Zahid Ibn-Rizwan",
+  "email": "zahidibnrizwan@gmail.com",
+  "password": "$2b$10$JZLEiXovTcBT5SkRdotNjumVHw8gPv9efdrS7rthS5CrLuSPui8qq",
+  "phone": "817281891",
+  "role": "student",
+  "createdAt": {
+    "$date": "2024-04-06T09:19:00.421Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-06T09:19:00.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6612a6120560520dd4ad30d1"
+  },
+  "firstname": "Md Monauwarul",
+  "lastname": "islam",
+  "username": "Md Monauwarul islam",
+  "email": "mdmonauwarulislam@gmail.com",
+  "password": "$2b$10$TPvp8drNWXo3dgUFrPhUE.Re7lzY.ttHQi6Zvu6ro/ZOZEo4q4oJK",
+  "phone": "6203800630",
+  "role": "student",
+  "createdAt": {
+    "$date": "2024-04-07T13:56:34.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-20T19:55:38.901Z"
+  },
+  "__v": 0,
+  "forumAnswer": [
+    {
+      "$oid": "66c4f39671f299b1aeab4020"
+    }
+  ],
+  "forumQuestion": [
+    {
+      "$oid": "66c4f4ba559aa1f82f0d5595"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67862db9ea9cf7c9d14c09a4"
+  },
+  "firstname": "Md",
+  "lastname": "Imran",
+  "username": "Md Imran",
+  "email": "mdimranyusuf1@gmail.com",
+  "password": "$2b$10$hxna0PDn8JzJMAYWJVI1we8/lxfum1aHqe7cI14GgNdSVVeIW6ts6",
+  "phone": "72504 37632",
+  "enrolledCourses": [],
+  "wishlist": [],
+  "reviews": [],
+  "role": "student",
+  "forumQuestion": [],
+  "forumAnswer": [],
+  "createdAt": {
+    "$date": "2025-01-14T09:26:17.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T09:26:17.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bb58162399391e520d9355"
+  },
+  "firstname": "kajin71618@codverts.com",
+  "lastname": "kajin71618@codverts.com",
+  "username": "kajin71618@codverts.com kajin71618@codverts.com",
+  "email": "kajin71618@codverts.com",
+  "password": "$2b$10$doef8r7gDXxuheIOqm1GaO8geYhqtdIXfwqQFnI8bwChd5P8cgTX2",
+  "phone": "3652246441",
+  "enrolledCourses": [],
+  "wishlist": [],
+  "reviews": [],
+  "role": "student",
+  "forumQuestion": [],
+  "forumAnswer": [],
+  "createdAt": {
+    "$date": "2025-02-23T17:17:10.453Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T17:17:10.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c437c162e2e3fd7079afeb"
+  },
+  "firstname": "Farhanur",
+  "lastname": "Rahman",
+  "username": "Farhanur Rahman",
+  "email": "farhan1@gmail.com",
+  "password": "$2b$10$2yRc9S8cXpIqemDE0gfC.uvy.DXM4O3Ikc3Cy1evO.RaRLUDKxKDi",
+  "phone": "7546974979",
+  "enrolledCourses": [],
+  "wishlist": [],
+  "reviews": [],
+  "role": "student",
+  "forumQuestion": [],
+  "forumAnswer": [],
+  "createdAt": {
+    "$date": "2025-03-02T10:49:37.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T10:49:37.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c43d6700cb16fcd87b39b8"
+  },
+  "firstname": "Md Monauwarul",
+  "lastname": "Islam",
+  "username": "Md Monauwarul Islam",
+  "email": "monauwarul@gmail.com",
+  "password": "$2b$10$U/AGF5l0NpMKrAl2vxeB2.imfqAZoRLv5OCdeIm5LYsBpmSbX.O5m",
+  "phone": "6200791544",
+  "enrolledCourses": [],
+  "wishlist": [],
+  "reviews": [],
+  "role": "student",
+  "forumQuestion": [],
+  "forumAnswer": [],
+  "createdAt": {
+    "$date": "2025-03-02T11:13:43.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-02T11:13:43.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc10d3a5bc48b210fc4b89"
+  },
+  "firstname": "Ityl",
+  "lastname": "Kity",
+  "username": "Ityl Kity",
+  "email": "sasiwo3660@lineacr.com",
+  "password": "$2b$10$X8SN67rWWvPXqX1JrherE.6lzunz9mlL6drsIcxlrycSPNgI54OiC",
+  "phone": "06393033777",
+  "enrolledCourses": [],
+  "wishlist": [],
+  "reviews": [],
+  "role": "student",
+  "forumQuestion": [],
+  "forumAnswer": [],
+  "createdAt": {
+    "$date": "2025-03-08T09:41:39.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T09:41:39.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc1110a5bc48b210fc4b90"
+  },
+  "firstname": "evil.com",
+  "lastname": "Kity",
+  "username": "evil.com Kity",
+  "email": "test@gmail.com",
+  "password": "$2b$10$iOmDUs20MHvic.R6oYgIGeaVRmdYDPyeBknHoqz5D.qnOVJDy8p.G",
+  "phone": "444444444444444444444444444",
+  "enrolledCourses": [],
+  "wishlist": [],
+  "reviews": [],
+  "role": "student",
+  "forumQuestion": [],
+  "forumAnswer": [],
+  "createdAt": {
+    "$date": "2025-03-08T09:42:40.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T09:42:40.546Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66c4f33a559aa1f82f0d556a"
+  },
+  "course": {
+    "$oid": "662110f335f26083da811c7a"
+  },
+  "student": {
+    "$oid": "660eee58595a11d3304884ae"
+  },
+  "rating": 3,
+  "reviewText": "ds",
+  "createdAt": {
+    "$date": "2024-08-20T19:49:14.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-09T19:27:05.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66df4be4a27b1513927099b0"
+  },
+  "course": {
+    "$oid": "662110f335f26083da811c7a"
+  },
+  "student": {
+    "$oid": "660eee58595a11d3304884ae"
+  },
+  "rating": 4,
+  "reviewText": "Anmajz",
+  "createdAt": {
+    "$date": "2024-09-09T19:26:28.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-09T19:26:28.625Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "662110f335f26083da811c7a"
+  },
+  "courseTitle": "Perfect Diet & Meal Plan-Complete Course",
+  "courseCategory": " Featured, Health",
+  "videoLink": "https://www.youtube.com/watch?v=a18py61_F_w",
+  "aboutCourse": "<p><strong>Are you new to PHP or need a refresher?</strong>&nbsp;Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi and ending the course by building a CMS system similar to WordPress, Joomla or Drupal.</p><p><strong>Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world.</strong>&nbsp;Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications.</p><p>Knowing&nbsp;<strong>PHP&nbsp;</strong>will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google.</p><p><strong>There is no limit to what you can do with this knowledge.</strong>&nbsp;PHP is one of the most important web programming languages to learn, and knowing it, will give you&nbsp;<strong>SUPER POWERS</strong>&nbsp;in the web development world and job market place.</p><p><strong>Why?</strong></p><p>Because Millions of websites and applications (the majority) use PHP. You can find a job anywhere or even work on your own, online and in places like freelancer or Odesk. You can definitely make a substantial income once you learn it.</p><p><strong>I will not bore you 🙂</strong></p><p>I take my courses very seriously but at the same time I try to make it fun since I know how difficult learning from an instructor with a monotone voice or boring attitude is. This course is fun, and when you need some energy to keep going, you will get it from me.</p><p><strong>My Approach</strong></p><p>Practice, practice and more practice. Every section inside this course has a practice lecture at the end, reinforcing everything with went over in the lectures. I also created a small application the you will be able to download to help you practice PHP. To top it off, we will build and awesome CMS like WordPress, Joomla or Drupal.</p><p><br></p>",
+  "learnItems": [
+    "Understand the fundamentals of healthy dieting (calories, protein, carbs, fat, vitamins & minerals)",
+    "Create a diet that is perfect for your needs and lifestyle",
+    " Learn when, what and how much you should eat for optimal body composition",
+    "Build more muscle by optimizing your meal plan",
+    "Lose fat faster by optimizing your meal pla"
+  ],
+  "materialIncludesItems": [
+    "4 hours on-demand video",
+    "4 article",
+    "3 downloadable resources",
+    " Full lifetime access",
+    "Access on mobile and TV"
+  ],
+  "requirementItems": [
+    "No prior health knowledge is required or assume",
+    "A digital food scale will help but is not required"
+  ],
+  "tagItems": [
+    "Faetured",
+    "Health & fitnes"
+  ],
+  "audienceItems": [
+    "Anyone wanting to learn the truth about dieting & meal planning",
+    "Anyone with an open mind towards dietin",
+    ""
+  ],
+  "teacherId": {
+    "$oid": "660ef18cee9ea63f4571bdd7"
+  },
+  "createdAt": {
+    "$date": "2024-04-18T12:24:19.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-09T19:26:28.642Z"
+  },
+  "__v": 0,
+  "reviews": [
+    {
+      "$oid": "66718e329da163ecaae130dc"
+    },
+    {
+      "$oid": "66c4f33a559aa1f82f0d556a"
+    },
+    {
+      "$oid": "66df4be4a27b1513927099b0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6723d9a0a4fd26d29bf45c52"
+  },
+  "courseTitle": "",
+  "courseCategory": "",
+  "videoLink": "",
+  "aboutCourse": "",
+  "learnItems": [
+    ""
+  ],
+  "materialIncludesItems": [
+    "",
+    "",
+    ""
+  ],
+  "requirementItems": [
+    ""
+  ],
+  "tagItems": [
+    ""
+  ],
+  "audienceItems": [
+    ""
+  ],
+  "teacherId": {
+    "$oid": "6723d96da4fd26d29bf45c4b"
+  },
+  "status": "publish",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-31T19:25:20.655Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T19:25:20.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723de789c8a190249cbd46f"
+  },
+  "courseTitle": "",
+  "courseCategory": "",
+  "videoLink": "",
+  "aboutCourse": "",
+  "learnItems": [
+    ""
+  ],
+  "materialIncludesItems": [
+    ""
+  ],
+  "requirementItems": [
+    ""
+  ],
+  "tagItems": [
+    ""
+  ],
+  "audienceItems": [
+    ""
+  ],
+  "teacherId": {
+    "$oid": "6723d96da4fd26d29bf45c4b"
+  },
+  "status": "publish",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-31T19:46:00.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T19:46:00.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723e5ab9a8a45188b179fae"
+  },
+  "courseTitle": "",
+  "courseCategory": "",
+  "videoLink": "",
+  "aboutCourse": "",
+  "learnItems": [
+    ""
+  ],
+  "materialIncludesItems": [
+    ""
+  ],
+  "requirementItems": [
+    ""
+  ],
+  "tagItems": [
+    ""
+  ],
+  "audienceItems": [
+    ""
+  ],
+  "teacherId": {
+    "$oid": "6723d96da4fd26d29bf45c4b"
+  },
+  "status": "publish",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-10-31T20:16:43.708Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T20:16:43.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c0034bc434ebc6f09e3b36"
+  },
+  "courseTitle": "zxzx",
+  "courseCategory": "zxmzx",
+  "videoLink": "zxz",
+  "aboutCourse": "<p>zxzx</p>",
+  "learnItems": [
+    "zx",
+    "mskdcsl"
+  ],
+  "materialIncludesItems": [
+    "sxszx",
+    "znxjk"
+  ],
+  "requirementItems": [
+    "z xkz",
+    "zxkzk"
+  ],
+  "tagItems": [
+    "xsxa",
+    "sxas",
+    ""
+  ],
+  "audienceItems": [
+    "zx jzxasais",
+    "hsxjsxajsKX"
+  ],
+  "teacherId": {
+    "$oid": "661da1a964e7d111e22de86f"
+  },
+  "status": "publish",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-02-27T06:16:43.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T06:16:43.387Z"
+  },
+  "__v": 0
+}]

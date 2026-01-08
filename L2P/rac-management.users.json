@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "67c363e118ec905239c6a292"
+  },
+  "name": " Admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$ieus668LJLXCjcbaBH8sMOAG/SG.ObAm1kBCD8Foe7rGvhK4oBJRS",
+  "role": "admin",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-03-01T19:45:37.713Z"
+  },
+  "fsUniquifier": "zwjyxfvvu9s",
+  "createdAt": {
+    "$date": "2025-03-01T19:45:37.720Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T19:45:37.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf414af4ba569e1216f51a"
+  },
+  "name": "anwar alam",
+  "email": "anwaralam@gmail.com",
+  "password": "$2b$10$JmPHgH1rcvuSnz7XuxO0D.WGUflIASfvYE9aJxpEipPooKUmX0nNW",
+  "role": "scholar",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-03-10T19:45:14.641Z"
+  },
+  "fsUniquifier": "9s058eh3vnd",
+  "createdAt": {
+    "$date": "2025-03-10T19:45:14.651Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T19:45:14.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf44d9c22ef9cdbc85e020"
+  },
+  "name": "motiur rahman",
+  "email": "motiurrahaman204@gmail.com",
+  "password": "$2b$10$mPXDaWnrgpnxcfuXWcd70uvUIlBrliE9FqoJLSduKNt3q2F0UfZ5.",
+  "role": "scholar",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-03-10T20:00:25.802Z"
+  },
+  "fsUniquifier": "6ht2p8hfcgn",
+  "createdAt": {
+    "$date": "2025-03-10T20:00:25.804Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:00:25.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6a74bbd694b1762dafe7f"
+  },
+  "username": "Hibbanur Rahman",
+  "email": "hibbanrahmanhyt@gmail.com",
+  "password": "$2b$10$W1xPP3pa3.VdOcXuzOmQm.SnypKw3YpX7u6QA/LgGmay6O6NZHFRK",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-03-16T10:26:19.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T10:26:19.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e441c74e24a20b6d922369"
+  },
+  "name": "supervisor test",
+  "email": "supervisorTest@gmail.com",
+  "password": "$2b$10$V.HVzKcCw8G0nxIzcj7tpeX6wcGH.jORKJbZBfEo5UE52TJST4ow6",
+  "role": "supervisor",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-03-26T18:04:55.815Z"
+  },
+  "fsUniquifier": "s33aqfs77or",
+  "createdAt": {
+    "$date": "2025-03-26T18:04:55.819Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T18:04:55.819Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e4425c35ab4d759668567d"
+  },
+  "name": "testSuper",
+  "email": "testSuper@gmail.com",
+  "password": "$2b$10$buvLPj4pIxMvQhNMzL1vOuGLAP917y/EqQfuYqszfQMsQjzMjXJUa",
+  "role": "supervisor",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-03-26T18:07:24.714Z"
+  },
+  "fsUniquifier": "o89tkoro2k9",
+  "createdAt": {
+    "$date": "2025-03-26T18:07:24.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T18:07:24.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e446de4fd28afcad8d077f"
+  },
+  "name": "sasnjaks",
+  "email": "jsnka@gmail.com",
+  "password": "$2b$10$AGcuH5zSbbF2/24ddsuxNuk8EXl6uMSjvokZc9oiF2db77K/Wz56q",
+  "role": "supervisor",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-03-26T18:26:38.809Z"
+  },
+  "fsUniquifier": "ljrs350z5h",
+  "createdAt": {
+    "$date": "2025-03-26T18:26:38.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T18:26:38.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1793da2a491c64af7e33d"
+  },
+  "name": "test scholar",
+  "email": "testscholar1@gmail.com",
+  "password": "$2b$10$UEKavfxSBoSOYfQmTWX1Mebvyiab5XZRV8kJxMtiapBBBazIUhj9y",
+  "role": "scholar",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-04-05T18:41:01.636Z"
+  },
+  "fsUniquifier": "udwdrmizpg",
+  "createdAt": {
+    "$date": "2025-04-05T18:41:01.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T18:41:01.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f28cd71460ce5a6dcfcb16"
+  },
+  "name": "Super Visor",
+  "email": "supervisor@gmail.com",
+  "password": "$2b$10$uZLPjWjUemsIyuHyNKS2LO/iy65jX5.90leTV7vi/D52aN1SgHgYS",
+  "role": "supervisor",
+  "active": true,
+  "registeredAt": {
+    "$date": "2025-04-06T14:16:55.250Z"
+  },
+  "fsUniquifier": "5lc2ap48d6c",
+  "createdAt": {
+    "$date": "2025-04-06T14:16:55.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T14:16:55.260Z"
+  },
+  "__v": 0
+}]
